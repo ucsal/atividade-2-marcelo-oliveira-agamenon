@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Exercise2</string>
+    <string name="textView1">Oi!</string>
+    <string name="button1">Trocar Usuário</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
 </resources>
